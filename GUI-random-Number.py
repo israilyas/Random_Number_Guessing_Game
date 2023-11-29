@@ -30,7 +30,7 @@ def guessnum():
         result_label.config(text="Please Guess any higher number..")
         entry.delete(0, 'end')
 
-# COLORS
+# BACKGROUND COLORS
 background = "#06283D"
 button_color = "#EE0000"
 activebackground = "#EE0000"

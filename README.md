@@ -20,13 +20,13 @@ This is a simple Random Number Guessing Game implemented in Python using the Tki
 5-Keep guessing until you find the correct number.<Br>
 6-After successfully guessing the number, the game will display the total number of attempts.<Br>
 
-#Features
+# Features
 
-# Guessing Logic:
+**Guessing Logic:** <br>
 The game provides hints if the guessed number is too high or too low.
-# Play Again: 
+**Play Again:** <br>
 Click the "Play Again" button to start a new game.
-# Exit: 
+**Exit:** <br>
 Click the "Exit" button to close the game.
 
 

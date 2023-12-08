@@ -23,9 +23,9 @@ This is a simple Random Number Guessing Game implemented in Python using the Tki
 # Features
 
 **Guessing Logic:** <br>
-The game provides hints if the guessed number is too high or too low.
+The game provides hints if the guessed number is too high or too low.<Br>
 **Play Again:** <br>
-Click the "Play Again" button to start a new game.
+Click the "Play Again" button to start a new game.<Br>
 **Exit:** <br>
 Click the "Exit" button to close the game.
 
